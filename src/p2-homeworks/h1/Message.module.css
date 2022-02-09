@@ -1,0 +1,37 @@
+.message {
+    margin: 10px;
+    display: flex;
+}
+
+.ava img {
+    margin-top: 30px;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+}
+
+.messageArea {
+    width: 150px;
+    height: 80px;
+    margin-left: 8px;
+    padding: 5px;
+    padding-left: 10px;
+    background-color: #98bbef;
+    border-radius: 8px;
+    border-bottom-left-radius: initial;
+}
+
+.messageName {
+    font-size: 18px;
+    font-weight: bold;
+    color: #174ae2;
+}
+
+.messageBody {
+
+}
+
+.messageTime {
+    float: right;
+    margin-top: 10px;
+}

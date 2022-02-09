@@ -1,0 +1,14 @@
+.someClass {
+
+}
+
+.error {
+    border: 2px solid red;
+}
+.submit {
+    border: 2px solid green;
+}
+
+.errorMessage {
+    color: #ff0003;
+}
